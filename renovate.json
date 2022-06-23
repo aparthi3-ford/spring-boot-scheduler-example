@@ -1,9 +1,9 @@
 {
-  "extends": [
-    "config:base"
-  ]
 "timezone": "America/Detroit",
   "schedule": [
-    "before 6:20am"
+    "before 6:25am"
   ],
+    "extends": [
+    "config:base"
+  ]
 }
